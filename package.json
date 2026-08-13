@@ -1,0 +1,9 @@
+{
+  "name": "do-zero-ao-bananal",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Manual digital do Criatório Araguaia com visualização ao vivo.",
+  "scripts": {
+    "dev": "node live-server.js"
+  }
+}
